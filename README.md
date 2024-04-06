@@ -14,6 +14,9 @@
     <img src="https://skillicons.dev/icons?i=python,fastapi,cpp,java,spring boot" /><br>
 </div>
 
+![Mr-DevanshuGupta's Stats](https://github-readme-stats.vercel.app/api?username=Mr-DevanshuGupta&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Mr-DevanshuGupta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mr-DevanshuGupta&theme=vue-dark&hide_border=true)
+![Mr-DevanshuGupta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-DevanshuGupta&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <!---
 Mr-DevanshuGupta/Mr-DevanshuGupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
