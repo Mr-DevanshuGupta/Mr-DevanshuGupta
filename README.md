@@ -1,3 +1,6 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mr-DevanshuGupta.Mr-DevanshuGupta" />
+
+
 - 👋 Hi, I’m @Mr-DevanshuGupta
 - 👀 I’m interested in coding collaborations
 - 🌱 I’m currently learning c++
