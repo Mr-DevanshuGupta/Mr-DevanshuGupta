@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @Mr-DevanshuGupta
 - 👀 I’m interested in coding collaborations
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on some coding projects 
 - 📫 How to reach me - you can email me at devanshu.kissu.0000@gmail.com
 
